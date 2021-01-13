@@ -1,0 +1,2 @@
+# Aplicando-design-patterns-na-pr-tica-com-C-
+Design Patterns são soluções reutilizáveis para problemas comumente ocorridos (no contexto do design de software). Estes padrões foram iniciados como melhores práticas que foram aplicadas repetidamente a problemas semelhantes encontrados em diferentes contextos. Eles se tornaram populares depois que foram apresentados, de forma estruturada, no livro “Design Patterns - Elements of Reusable Object-Oriented Software” (Gang Of Four) em 1994.
